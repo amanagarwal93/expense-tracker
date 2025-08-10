@@ -1,0 +1,27 @@
+package com.example.expensetracker.utils
+
+object AppConstants {
+    internal const val FOOD = "food"
+    internal const val ENTRY = "entry"
+    internal const val LIST = "list"
+    internal const val REPORT = "report"
+    internal const val DATABASE_NAME = "expense_db"
+    internal const val IMAGE_FORMAT = "image/*"
+    internal const val MIME_TYPE = "text/csv"
+    internal const val MEDIA_STORE_CREATION_FAILED = "Failed to create new MediaStore record."
+    internal const val OUTPUT_STREAM_OPEN_FAILED = "Failed to open output stream."
+    internal const val SHARE_TITLE = "Share file"
+    internal const val FILE_SHARING_ERROR = "Error sharing file"
+    internal const val DATE_FORMAT_WITH_TIME = "yyyy-MM-dd HH:mm"
+    internal const val DATE_PATTERN = "EEE"
+    internal const val GROUP_CATEGORY = "Category"
+    internal const val GROUP_NONE = "None"
+    internal const val GROUP_DATE = "Date"
+    internal const val DATE_FORMAT = "yyyy-MM-dd"
+    internal const val HOUR_FORMAT = "hh:mm a"
+    internal const val SAVED_TO_DOWNLOADS = "Saved to Downloads"
+    internal const val SAVE_FAILED = "Save Failed"
+    internal const val EXPORT_FAILED = "Export Failed"
+    internal const val SHARE_FAILED = "Share Failed"
+    internal const val EXPENSE_ADDED = "Expense added"
+}
