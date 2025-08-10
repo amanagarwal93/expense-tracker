@@ -4,6 +4,39 @@ This is an Android expense tracking application built using Kotlin and Jetpack C
 
 ---
 
+## AI Usage Summary
+
+- Used AI for providing MVVM architecture setup with navigation, room database, and DI.
+- Used AI to generate a readme.md for the project by providing a structure screenshot from the IDE
+- Used detekt plugin to remove linting errors
+- Asked AI to use only cool colors for UI and support dark and light theme
+
+---
+
+## APK
+
+- Apk is in root directory with name `expense_tracker`.apk
+- Link: [APK Link](https://drive.google.com/file/d/1d5WKKOPTiKYk246Mwt2OcoDhFim5YUCj/view?usp=sharing)
+
+---
+
+## Features
+
+- Dark/Light Theme
+- Persistence Data Locally
+- Animation on add
+- Validation
+- Reusable UI components
+
+## Prompt Logs
+
+- generate markdown file
+- mvvm room di kotlin compose architecture
+- support dark light theme
+- detect code format
+
+---
+
 ## Architecture Overview
 
 The app uses a layered architecture inspired by the Clean Architecture and MVVM (Model-View-ViewModel) patterns:
